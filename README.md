@@ -1,7 +1,7 @@
 # Deep Running
 ## 1. Install
 ```bash
-$ pip install --user deep_runing
+$ pip install --user deep_running
 ```
 
 ## 2. Lap N
