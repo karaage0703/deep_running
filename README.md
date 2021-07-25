@@ -5,9 +5,9 @@ $ pip install --user deep_runing
 ```
 
 ## 2. Lap N
-|Lap.|Name|Remarks|
-|:--:|:--|:--|
-|1|[Mario Deeeeeep Running](0001_mario_deeeeeep_running)|I was born to run.|
+|Lap.|Name|Remarks|Citation Meta|
+|:--:|:--|:--|:--|
+|1|[Mario Deeeeeep Running](0001_mario_deeeeeep_running)|I was born to run.|[dannyso16/Gameboy-on-terminal](https://github.com/dannyso16/Gameboy-on-terminal)|
 
 ## 3. Lap Sample
 ### 1. Mario Deeeeeep Running
