@@ -1,4 +1,6 @@
 # Deep Running
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/deep_running?color=2BAF2B&label=Downloads%EF%BC%8FInstalled)](https://pypistats.org/packages/deep_running) ![GitHub](https://img.shields.io/github/license/karaage0703/deep_running?color=2BAF2B) [![PyPI](https://img.shields.io/pypi/v/deep_running?color=2BAF2B)](https://pypi.org/project/deep_running/)
+
 ## 1. Install
 ```bash
 $ pip install --user deep_running
